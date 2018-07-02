@@ -1,4 +1,4 @@
-const audio = new Audio('../audio/train.mp3');
+const audio = new Audio('./audio/train.mp3');
 const volume = document.querySelector('.volume');
 const button = document.querySelector('#navbar-toggle');
 
